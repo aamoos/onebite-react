@@ -1,4 +1,5 @@
 // 함수선언
+// 호이스팅 -> 끌어올리다 뜻
 function getArea(width, height){
     
     //중첩함수
